@@ -18,7 +18,7 @@ const App = () => {
             <rect x={248} y={200} width={10} height={10} />
             <line x1={20} y1={viewHeight - 20} x2={150} y2={100} stroke="black" />
             <text x="20" y="35">
-                Price history of 100 randomly selected Pokemon cards!!!
+                Price history of 100 randomly selected Pokemon cards
             </text>
         </svg>
     ); // outer brace = js / inner brace = object
